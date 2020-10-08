@@ -1,0 +1,3 @@
+python challenge.py DODic20 -u agupala -p nzdhb
+
+{"type":"smd","level":1, "entries":["BI", "OF"],"products":[{"symbol":"DODic20","marketId":"ROFX"}]}
